@@ -1,0 +1,47 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="sociallinks footersocial">
+          <a href="//twitter.com/{{site.twitter_handle}}"><li><i class="fa fa-twitter"></i></li></a>
+          <a href="//youtube.com/{{site.youtube_handle}}"><li><i class="fa fa-youtube"></i></li></a>
+          <a href="//instagram.com/{{site.instagram_handle}}"><li><i class="fa fa-instagram"></i></li></a>
+          <a href="//flickr.com/{{site.flickr_handle}}"><li><i class="fa fa-flickr"></i></li></a>
+          <a href="mailto:{{site.email}}"><li><i class="fa fa-envelope"></i></li></a>
+
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+  </div>
+
+<style>
+.northfolkbrand {
+      background:url("{{site.baseurl}}/images/icon/northfolk.png") no-repeat bottom !important;
+
+}
+<
+
+</footer>
