@@ -4,7 +4,7 @@ title: Performances
 permalink: /performances/
 ---
 
-A gallery of some of my recent performances
+A gallery of some of my performances...
 <br><br>
 <hr class="line">
 <br>
