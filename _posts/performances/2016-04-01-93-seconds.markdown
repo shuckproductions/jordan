@@ -3,6 +3,4 @@ layout: post
 title:  "'93 seconds' - Written by Jordan Shuck - Screaming Oscars 2016"
 categories: performance
 ---
-<img src="{{ site.baseurl }}/images/performances/93seconds-Scream/image1.jpg">
-
-<img src="{{ site.baseurl }}/images/performances/93seconds-Scream/image2.jpg">
+<img src="{{ site.baseurl }}/images/performances/93seconds-Scream/93.png">
