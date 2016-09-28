@@ -24,12 +24,13 @@ Most recently have started making short films and promotional materials for myse
 
 <h3> Theatre Credits: </h3>
 
-* BFCP’s Cinderella - Ugly Stepsister
-* Billy Elliot Youth Theatre - Ensemble
-* West Side Story Youth Theatre - Big Deal
-* Stepping Out - Geoffrey
+* BFCP’s Cinderella - *Ugly Stepsister*
+* Billy Elliot Youth Theatre - *Ensemble*
+* West Side Story Youth Theatre - *Big Deal*
+* Stepping Out - *Geoffrey*
 * Blackpool Gang Show
 * The Hits 
+* Scream Theatre Schools Productions
 * Various school/church hall productions
 
 <h3> Achievements: </h3>
