@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I’m Jordan. I’m 17 years old from Blackpool, Lancashire. I’m an aspiring filmmaker/director/actor. I currently attend Baines Sixth form where I am studying Biology, Chemistry, ICT and Media Studies. 
+Hi! I’m Jordan. I’m 17 years old from Blackpool, Lancashire. I’m an aspiring filmmaker/director/actor. I currently attend Baines Sixth form, in upper sixth where I am studying Biology, ICT and Media Studies. 
 
 Each week I go to Scream Theatre Schools where I am trained in all three disciplines. Also I am an active member of Blackpool Scouts where I am a young leader at 1st Bispham Scout and Guide Group, a part of the production team for Blackpool Gang Show and the Media & Communications Editor for the Blackpool District. 
 
