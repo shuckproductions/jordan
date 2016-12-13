@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi! I’m Jordan. I’m 17 years old from Blackpool, Lancashire. I’m an aspiring filmmaker/director/actor. I currently attend Baines Sixth form, in upper sixth, where I am studying Biology, ICT and Media Studies. 
+Hi! I’m Jordan. I’m 17 years old from Blackpool, Lancashire. I’m an aspiring producer/director/actor. I currently attend Baines Sixth form, in upper sixth, where I am studying Biology, ICT and Media Studies. 
 
-Each week I go to Scream Theatre Schools where I am trained in all three disciplines. Also I am an active member of Blackpool Scouts where I am Deputy Youth Commissioner, a young leader at 1st Bispham Scout and Guide Group, a part of the production team for Blackpool Gang Show and the Media & Communications Editor for the Blackpool District. 
+I attended Scream Theatre Schools where I trained in all three disciplines. Also I am an active member of Blackpool Scouts where I am Deputy Youth Commissioner, a young leader at 1st Bispham Scout and Guide Group, a part of the production team for Blackpool Gang Show and the Media & Communications Editor for the Blackpool District. 
 
 Most recently have started making short films and promotional materials for myself and others. If you want to view my films/videos please look at the 'Productions' section on my site.
 
@@ -24,6 +24,7 @@ Most recently have started making short films and promotional materials for myse
 
 <h3> Theatre Credits: </h3>
 
+* BFCP's Peter Pan - *Captain Hook*
 * BFCP’s Cinderella - *Ugly Stepsister*
 * Billy Elliot Youth Theatre - *Ensemble*
 * West Side Story Youth Theatre - *Big Deal*
