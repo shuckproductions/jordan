@@ -156,6 +156,12 @@ title: Layout CSS
 /**
  * Site header
  */
+.tinyimage {
+  height: 115px !important; }
+
+.mobile-grid-100 {
+  width: 99.9% !important; }
+
 .headerbgallpage {
   width: 100%;
   background-position: center;
@@ -354,7 +360,7 @@ body {
   position: absolute;
   margin-top: 40px;
   right: 20px;
-  bottom: -300px;
+  bottom: -30px;
   opacity: 0.6;
   padding: 5px; }
 
@@ -460,7 +466,8 @@ body {
   display: inline-block; }
 
 .performancepost img {
-  height: 500px; }
+  width: 100%;
+  max-width: 800px; }
 
 /**
  * Syntax highlighting styles
