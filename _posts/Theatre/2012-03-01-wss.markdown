@@ -1,0 +1,9 @@
+---
+title: "West Side Story Youth Theatre"
+layout: none
+level:  "Big Deal"
+bottom:  "2012"
+symbol: "theatre/wss.png"
+uniquecolour: "(62,44,125,1)"
+categories: theatre
+---

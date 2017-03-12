@@ -1,0 +1,9 @@
+---
+title: "Blackpool Gang Show"
+layout: none
+level:  "Artist & Producer"
+bottom:  "2007 - Present"
+symbol: "theatre/gs.png"
+uniquecolour: "(187,40,46,1)"
+categories: theatre
+---

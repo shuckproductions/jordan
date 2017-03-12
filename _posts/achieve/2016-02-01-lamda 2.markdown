@@ -1,0 +1,9 @@
+---
+title: "LAMDA Grade 6 Acting"
+layout: none
+level:  "Merit"
+bottom:  "2016"
+symbol: "achieve/lamda.png"
+uniquecolour: "(97,37,141,1)"
+categories: achievement
+---

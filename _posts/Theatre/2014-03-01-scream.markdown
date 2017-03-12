@@ -1,0 +1,9 @@
+---
+title: "Scream Theatre School Productions"
+layout: none
+level:  "Various"
+bottom:  ""
+symbol: "theatre/scream.png"
+uniquecolour: "(48,218,238,1)"
+categories: theatre
+---

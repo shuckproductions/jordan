@@ -1,0 +1,9 @@
+---
+title: "BFCP's Peter Pan"
+layout: none
+level:  "Captain Hook"
+bottom:  "2017"
+symbol: "theatre/bfcp2.png"
+uniquecolour: "(48,122,60,1)"
+categories: theatre
+---

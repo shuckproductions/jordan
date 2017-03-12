@@ -1,0 +1,9 @@
+---
+title: "Billy Elliot Youth Theatre"
+layout: none
+level:  "Ensemble"
+bottom:  "2011"
+symbol: "theatre/billy.png"
+uniquecolour: "(187,27,37,1)"
+categories: theatre
+---
