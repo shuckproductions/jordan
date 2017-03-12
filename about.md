@@ -53,6 +53,6 @@ Most recently have started making short films and promotional materials for myse
 
 
 <ul class="sociallinks footersocial">
-<b>Email me:</b>
+<b>Contact me:</b>
 <a href="mailto:{{site.email}}"><li><i class="fa fa-envelope"></i></li></a>
 </ul>
