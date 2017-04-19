@@ -4,19 +4,19 @@
     <title>Jordan Shuck</title>
     <description>Hi! I’m Jordan. I’m 18 from Blackpool, Lancashire. I’m an aspiring producer/director/actor. 
 </description>
-    <link>http://jordan.shuck.org.uk/</link>
-    <atom:link href="http://jordan.shuck.org.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Mar 2017 22:10:56 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Mar 2017 22:10:56 +0000</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Apr 2017 22:12:54 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 22:12:54 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Duke of Edinburgh</title>
         <description>
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://jordan.shuck.org.uk/achievement/2017/02/01/dofe.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/achievement/2017/02/01/dofe.html</guid>
+        <link>http://localhost:4000/achievement/2017/02/01/dofe.html</link>
+        <guid isPermaLink="true">http://localhost:4000/achievement/2017/02/01/dofe.html</guid>
         
         
         <category>achievement</category>
@@ -24,12 +24,12 @@
       </item>
     
       <item>
-        <title>BFCP&#39;s Peter Pan</title>
+        <title>BFCP's Peter Pan</title>
         <description>
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://jordan.shuck.org.uk/theatre/2017/02/01/peterpan.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/theatre/2017/02/01/peterpan.html</guid>
+        <link>http://localhost:4000/theatre/2017/02/01/peterpan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/theatre/2017/02/01/peterpan.html</guid>
         
         
         <category>theatre</category>
@@ -37,13 +37,13 @@
       </item>
     
       <item>
-        <title>&#39;Peter Pan&#39; - BFCP</title>
+        <title>'Peter Pan' - BFCP</title>
         <description>&lt;p&gt;&lt;img src=&quot;/images/performances/peterpan/hook.png&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://jordan.shuck.org.uk/performance/2017/01/28/peterpan.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/performance/2017/01/28/peterpan.html</guid>
+        <link>http://localhost:4000/performance/2017/01/28/peterpan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/performance/2017/01/28/peterpan.html</guid>
         
         
         <category>performance</category>
@@ -51,13 +51,13 @@
       </item>
     
       <item>
-        <title>&#39;Punk Rock&#39; - Scream Theatre Schools</title>
+        <title>'Punk Rock' - Scream Theatre Schools</title>
         <description>&lt;p&gt;&lt;img src=&quot;/images/performances/presentationday/presday.png&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Jul 2016 00:00:00 +0100</pubDate>
-        <link>http://jordan.shuck.org.uk/performance/2016/07/09/presentationday.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/performance/2016/07/09/presentationday.html</guid>
+        <link>http://localhost:4000/performance/2016/07/09/presentationday.html</link>
+        <guid isPermaLink="true">http://localhost:4000/performance/2016/07/09/presentationday.html</guid>
         
         
         <category>performance</category>
@@ -69,8 +69,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
-        <link>http://jordan.shuck.org.uk/achievement/2016/07/01/scream-2.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/achievement/2016/07/01/scream-2.html</guid>
+        <link>http://localhost:4000/achievement/2016/07/01/scream-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/achievement/2016/07/01/scream-2.html</guid>
         
         
         <category>achievement</category>
@@ -78,12 +78,12 @@
       </item>
     
       <item>
-        <title>&#39;93 seconds&#39; - Written by Jordan Shuck - Screaming Oscars 2016</title>
+        <title>'93 seconds' - Written by Jordan Shuck - Screaming Oscars 2016</title>
         <description>&lt;p&gt;&lt;img src=&quot;/images/performances/93seconds-Scream/93.png&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
-        <link>http://jordan.shuck.org.uk/performance/2016/04/01/93-seconds.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/performance/2016/04/01/93-seconds.html</guid>
+        <link>http://localhost:4000/performance/2016/04/01/93-seconds.html</link>
+        <guid isPermaLink="true">http://localhost:4000/performance/2016/04/01/93-seconds.html</guid>
         
         
         <category>performance</category>
@@ -95,8 +95,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-        <link>http://jordan.shuck.org.uk/achievement/2016/03/01/highsheriff.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/achievement/2016/03/01/highsheriff.html</guid>
+        <link>http://localhost:4000/achievement/2016/03/01/highsheriff.html</link>
+        <guid isPermaLink="true">http://localhost:4000/achievement/2016/03/01/highsheriff.html</guid>
         
         
         <category>achievement</category>
@@ -108,8 +108,8 @@
         <description>
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-        <link>http://jordan.shuck.org.uk/achievement/2016/02/01/lamda-2.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/achievement/2016/02/01/lamda-2.html</guid>
+        <link>http://localhost:4000/achievement/2016/02/01/lamda-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/achievement/2016/02/01/lamda-2.html</guid>
         
         
         <category>achievement</category>
@@ -121,8 +121,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
-        <link>http://jordan.shuck.org.uk/achievement/2015/07/01/scream.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/achievement/2015/07/01/scream.html</guid>
+        <link>http://localhost:4000/achievement/2015/07/01/scream.html</link>
+        <guid isPermaLink="true">http://localhost:4000/achievement/2015/07/01/scream.html</guid>
         
         
         <category>achievement</category>
@@ -134,8 +134,8 @@
         <description>
 </description>
         <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
-        <link>http://jordan.shuck.org.uk/achievement/2015/07/01/lamda.html</link>
-        <guid isPermaLink="true">http://jordan.shuck.org.uk/achievement/2015/07/01/lamda.html</guid>
+        <link>http://localhost:4000/achievement/2015/07/01/lamda.html</link>
+        <guid isPermaLink="true">http://localhost:4000/achievement/2015/07/01/lamda.html</guid>
         
         
         <category>achievement</category>
