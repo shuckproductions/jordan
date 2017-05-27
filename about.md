@@ -33,7 +33,7 @@ height: 140px !important;
 
 Hi! I’m Jordan. I’m 18 from Blackpool, Lancashire. I’m an aspiring producer/director/actor. I currently attend Baines Sixth form, in upper sixth, where I am studying Biology, ICT and Media Studies. 
 
-I trained at Scream Theatre Schools in all three disciplines. Also I am an active member of Blackpool Scouts where I am Deputy Youth Commissioner, an assistant Beaver leader at 1st Bispham Scout and Guide Group, a part of the production team for Blackpool Gang Show and the Media & Communications Editor for the Blackpool District. 
+I trained at Scream Theatre Schools in all three disciplines. Also I am an active member of Blackpool Scouts where I am District Youth Commissioner, an assistant Beaver leader at 1st Bispham Scout and Guide Group, a part of the production team for Blackpool Gang Show and the Media & Communications Editor for the Blackpool District. 
 
 Most recently have started making short films and promotional materials for myself and others, under  Shuck Productions. If you want to view my films/videos please look at the 'Productions' section on my site.
 
