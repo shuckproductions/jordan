@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-<iframe style="height:4000px;" class="fullpageiframe" src="//jordanshuck0.blogspot.com">
+<iframe style="height:4000px; width:99%;" class="fullpageiframe" src="//jordanshuck0.blogspot.com">
