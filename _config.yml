@@ -9,9 +9,8 @@
 title: Jordan Shuck
 email: jordan@shuck.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-    Hi! I’m Jordan. I’m 18 from Blackpool, Lancashire. I’m an aspiring producer/director/actor. 
-
-10wordbio: Actor | Aspiring Director
+    Hi! I’m Jordan. BA (Hons) Television and Radio, MediaCityUK
+10wordbio: BA (Hons) Television & Radio, University of Salford, MediaCityUK
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jordan.shuck.org.uk" # the base hostname & protocol for your site
