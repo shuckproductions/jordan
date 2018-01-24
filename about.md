@@ -85,7 +85,6 @@ I feel that I have a responsibility to entertain, inspire and engage with an aud
 
 Broadcasting is one of the most powerful and influential tools that we have in society and I would love to be a part of the community that makes it happen. My goal is to be a producer or perhaps a director and I believe that through hard work and getting my degree will provide me with a stepping stone to help me achieve this goal.
 
-
 **Achievements:**
 
 <div class="grid-container">
