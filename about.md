@@ -31,25 +31,36 @@ height: 140px !important;
 .grid-achieve { margin-right: 70px; }</style>
 
 
-Hello! I'm Jordan. I'm 18, have a love of broadcasting and in 2017 I started studying BA (Hons) Television and Radio student at the University of Salford based at MediaCityUK.
+Hello! I'm Jordan. I'm 18, have a love of broadcasting and I'm studying BA (Hons) Television and Radio at the University of Salford based at MediaCityUK.
 
 One aspect of my course is to analyse a variety of content. On this blog, I am posting viewing and listening logs, where I analyse an array of content from broadcast to online. <a href="/blog/"> Have a gander! </a>
 
 Blackpool born and bred. Who doesn't love the going up the tower, riding the Big One, seeing the illuminations and a little stick of Blackpool rock? (cue George Formby)
 
-I am a producer at Shock Radio, Manchester's biggest student radio station. Why not tune in at shockradio.co.uk.
+I am a producer at Shock Radio, Manchester's biggest student radio station. Why not tune in at <a href="shockradio.co.uk"> shockradio.co.uk. </a>
 
-At A-level, I studied Biology, Media Studies and Information Technology (and Chemistry at AS). I also undertook an AQA extended project where I created a promotional video for Baines School (Watch it here) following their brief and following the process from pre to post production.
+At A-level, I studied Biology, Media Studies and Information Technology (and Chemistry at AS). I also undertook an AQA extended project where I created a promotional video for Baines School following their brief and following the process from pre to post production.
 
 Original broadcast television is where my love of the media lies; more specifically British TV fictions such as: Fawlty Towers, Doctor Who, Steptoe and Son, Allo Allo and much more...
 
-I have trained in singing, acting and dancing at Scream Theatre Schools and I am managed by Scream Management (The Greenhouse, MediaCityUK). I have both on-screen and on stage credits, performing in many stage shows in Blackpool such as 'Billy Elliot', 'West Side Story' and pantomimes such as 'Peter Pan' where I played the role of Captain Hook (right). Some of my on-screen credits include: 'Eric and Ernie' (BBC One) featuring the late Victoria Wood. Watch my head pop up from behind the sandcastle here. 'Being Eileen' (BBC), 'Coronation Street' (ITV) and more.
+I have trained in singing, acting and dancing at Scream Theatre Schools and I am managed by Scream Management (The Greenhouse, MediaCityUK). I have both on-screen and on stage credits, view them below.
 
-Also, I am an active member of Blackpool Scouts where I am District Youth Commissioner, an assistant Beaver Scout leader, a producer for Blackpool Gang Show and Media and Communications Editor for Blackpool District. In all of these roles, I act as an ambassador for Blackpool Scouts and empower the young people to make their own decisions and be involved in shaping their scouting adventures.
+**Theatre:**
 
-I feel that I have a responsibility to entertain, inspire and engage with an audience; and this sparks my passion for the media, making me determined, focused and enthusiastic about all aspects of media production from writing to editing. I believe film, television and radio are the most important ways to tell a story and use creativity to form relationships with characters you have created to change people's opinions.
+<div class="grid-container">
+{% for post in site.categories.theatre | sort: 'date') | reverse %}
+<div class="grid-10 mobile-grid-100 grid-achieve">
+<div class="achievebox  grid-achievemini" style="color:rgba{{ post.uniquecolour }}!important; background-color:#F1F1F1; ">
+<img class="achieveimg" src="{{ site.baseurl }}/images/{{ post.symbol }}">
+<p class="achievebold">{{ post.title }}</p>
+<span class="bottominfo">
+<p class="briefskills">{{ post.level }}</p>
+<p class="achievewhen">{{ post.bottom }}</p>
+</span>
+</div></div>
+{% endfor %}
 
-Broadcasting is one of the most powerful and influential tools that we have in society and I would love to be a part of the community that makes it happen. My goal is to be a producer or perhaps a director and I believe that through hard work and getting my degree will provide me with a stepping stone to help me achieve this goal.
+</div>
 
 **Television Credits:**
 
@@ -68,22 +79,12 @@ Broadcasting is one of the most powerful and influential tools that we have in s
 
 </div>
 
-**Theatre:**
+Also, I am an active member of Blackpool Scouts where I am District Youth Commissioner, an assistant Beaver Scout leader, a producer for Blackpool Gang Show and Media and Communications Editor for Blackpool District. In all of these roles, I act as an ambassador for Blackpool Scouts and empower the young people to make their own decisions and be involved in shaping their scouting adventures.
 
-<div class="grid-container">
-{% for post in site.categories.theatre | sort: 'date') | reverse %}
-<div class="grid-10 mobile-grid-100 grid-achieve">
-<div class="achievebox  grid-achievemini" style="color:rgba{{ post.uniquecolour }}!important; background-color:#F1F1F1; ">
-<img class="achieveimg" src="{{ site.baseurl }}/images/{{ post.symbol }}">
-<p class="achievebold">{{ post.title }}</p>
-<span class="bottominfo">
-<p class="briefskills">{{ post.level }}</p>
-<p class="achievewhen">{{ post.bottom }}</p>
-</span>
-</div></div>
-{% endfor %}
+I feel that I have a responsibility to entertain, inspire and engage with an audience; and this sparks my passion for the media, making me determined, focused and enthusiastic about all aspects of media production from writing to editing. I believe film, television and radio are the most important ways to tell a story and use creativity to form relationships with characters you have created to change people's opinions.
 
-</div>
+Broadcasting is one of the most powerful and influential tools that we have in society and I would love to be a part of the community that makes it happen. My goal is to be a producer or perhaps a director and I believe that through hard work and getting my degree will provide me with a stepping stone to help me achieve this goal.
+
 
 **Achievements:**
 
