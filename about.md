@@ -31,7 +31,7 @@ height: 140px !important;
 .grid-achieve { margin-right: 70px; }</style>
 
 
-Hello! I'm Jordan. I'm 18, have a love of broadcasting and I'm studying BA (Hons) Television and Radio at the University of Salford based at MediaCityUK.
+Hello! I'm Jordan. I'm 18, have a love for broadcasting and I'm studying BA (Hons) Television and Radio at the University of Salford based at MediaCityUK.
 
 One aspect of my course is to analyse a variety of content. On this blog, I am posting viewing and listening logs, where I analyse an array of content from broadcast to online. <a href="/blog/"> Have a gander! </a>
 
