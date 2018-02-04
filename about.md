@@ -45,10 +45,10 @@ Original broadcast television is where my love of the media lies; more specifica
 
 I have trained in singing, acting and dancing at Scream Theatre Schools and I am managed by Scream Management (The Greenhouse, MediaCityUK). I have both on-screen and on stage credits, view them below.
 
-**Theatre:**
+**Television Credits:**
 
 <div class="grid-container">
-{% for post in site.categories.theatre | sort: 'date') | reverse %}
+{% for post in site.categories.tv | sort: 'date') | reverse %}
 <div class="grid-10 mobile-grid-100 grid-achieve">
 <div class="achievebox  grid-achievemini" style="color:rgba{{ post.uniquecolour }}!important; background-color:#F1F1F1; ">
 <img class="achieveimg" src="{{ site.baseurl }}/images/{{ post.symbol }}">
@@ -62,10 +62,10 @@ I have trained in singing, acting and dancing at Scream Theatre Schools and I am
 
 </div>
 
-**Television Credits:**
+**Theatre:**
 
 <div class="grid-container">
-{% for post in site.categories.tv | sort: 'date') | reverse %}
+{% for post in site.categories.theatre | sort: 'date') | reverse %}
 <div class="grid-10 mobile-grid-100 grid-achieve">
 <div class="achievebox  grid-achievemini" style="color:rgba{{ post.uniquecolour }}!important; background-color:#F1F1F1; ">
 <img class="achieveimg" src="{{ site.baseurl }}/images/{{ post.symbol }}">
