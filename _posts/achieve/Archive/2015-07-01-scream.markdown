@@ -1,9 +1,0 @@
----
-title: "Jacqueline Leonard Award for Outstanding Achievement"
-layout: none
-level:  ""
-bottom:  "Scream Theatre Schools"
-symbol: "achieve/scream.png"
-uniquecolour: "(43,167,229,1)"
-categories: achievement
----

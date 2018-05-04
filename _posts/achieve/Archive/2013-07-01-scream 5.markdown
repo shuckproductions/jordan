@@ -1,9 +1,0 @@
----
-title: "Best Written piece"
-layout: none
-level:  "Scream Theatre Schools"
-bottom:  "2013 & 2014"
-symbol: "achieve/scream.png"
-uniquecolour: "(43,167,229,1)"
-categories: achievement
----
