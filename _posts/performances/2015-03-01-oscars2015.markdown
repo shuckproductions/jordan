@@ -1,7 +1,0 @@
----
-layout: post
-title:  "'Who's Who? - Written by Jordan Shuck - Screaming Oscars 2015"
-categories: performance
----
-<img src="{{ site.baseurl }}/images/performances/Oscars2015/oscars.png">
-
