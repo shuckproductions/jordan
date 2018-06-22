@@ -27,7 +27,7 @@ permalink: /about/
 Visit me on <i class="fa fa-linkedin-square" aria-hidden="true"></i>
 </div></a><br>
 
-<b>Achievements:</b>
+<b>Experience:</b>
 <br><br>
 
 {% for post in site.categories.achievement | sort: 'date') | reverse %}
