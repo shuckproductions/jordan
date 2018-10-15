@@ -1,9 +1,0 @@
----
-title: "Chief Scout's Silver Award"
-layout: none
-level:  "Blackpool Scouts"
-bottom:  ""
-symbol: "achieve/silver.png"
-uniquecolour: "(117,117,117,1)"
-categories: achievement
----

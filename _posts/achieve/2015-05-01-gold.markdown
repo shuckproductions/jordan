@@ -1,9 +1,0 @@
----
-title: "Chief Scout's Gold Award"
-layout: none
-level:  "Blackpool Scouts"
-bottom:  ""
-symbol: "achieve/gold.png"
-uniquecolour: "(162,105,1,1)"
-categories: achievement
----

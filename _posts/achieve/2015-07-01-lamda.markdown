@@ -1,9 +1,0 @@
----
-title: "LAMDA Group Acting"
-layout: none
-level:  "Distinction"
-bottom:  "2015"
-symbol: "achieve/lamda.png"
-uniquecolour: "(97,37,141,1)"
-categories: achievement
----

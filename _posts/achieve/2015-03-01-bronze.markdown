@@ -1,9 +1,0 @@
----
-title: "Chief Scout's Bronze Award"
-layout: none
-level:  "Blackpool Scouts"
-bottom:  ""
-symbol: "achieve/bronze.png"
-uniquecolour: "(109,38,22,1)"
-categories: achievement
----
