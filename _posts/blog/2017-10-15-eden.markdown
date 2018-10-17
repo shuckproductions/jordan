@@ -2,8 +2,8 @@
 title: "Eden: Paradise Lost"
 layout: post
 categories: university
-shortdesc: "'Eden: Paradise Lost' was first broadcast as 'Eden' on Channel 4 in 2016. The programme followed the experience of a group of men and women from the UK as they "face the challenge of building a new life and creating a new society from scratch" (Channel4.com, 2015)."
-featuredImage: "dontlogoff.jpg"
+shortdesc: "'Eden: Paradise Lost' was first broadcast as 'Eden' on Channel 4 in 2016. The programme followed the experience of a group of men and women from the UK as they 'face the challenge of building a new life and creating a new society from scratch' (Channel4.com, 2015)."
+featuredImage: "eden.png"
 ---
 
 <h2 style="text-align: center;">

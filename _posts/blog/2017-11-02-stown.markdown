@@ -1,0 +1,39 @@
+---
+title: "S-Town Podcast"
+layout: post
+categories: university
+shortdesc: "S-Town is a “true-crime” (Salusinszky, 2017) podcast produced by “Serial and This American Life, hosted by Brian Reed” (S.Town, n.d.) and it is a “rapidly expanding set of mini stories” (Romano, 2017) all about murder, mental health and the collapse of a society in Alabama."
+featuredImage: "stown.jpg"
+---
+
+S-Town is a “true-crime” (Salusinszky, 2017) podcast produced by “Serial and This American Life, hosted by Brian Reed” (S.Town, n.d.) and it is a “rapidly expanding set of mini stories” (Romano, 2017) all about murder, mental health and the collapse of a society in Alabama.
+
+<a href="https://files.stownpodcast.org/img/s-town-itunes.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="Image result for s town" border="0" height="200" src="https://files.stownpodcast.org/img/s-town-itunes.jpg" width="200" /></a>At the start, Brian “starts by talking about antique clock repair” (McGrane, 2017) and then hooks the audience by saying he “asked me to help him solve a murder” (Serial Productions, n.d.). This appeals to the audience of “loyal, affluent and educated” (Podcast insights, 2017) podcast listeners; making them continue to listen because they want to find out what has happened and if they solve the murder. Listeners were intrigued by the mystery because it focuses on subjects that are “difficult, brutal, and inevitably controversial” (Romano, 2017) and that is why it “scored over 45 million downloads in its first month, making it one of the most downloaded podcasts of all time” (McGrane, 2017).
+
+The producers used “creativity and experimentation” (McGrane, 2017) when creating the podcast because podcasting is still a new medium “there aren’t a lot of rules for how things should be done” (McGrane, 2017). S.Town is a “new form of storytelling” (McGrane, 2017) due to the nature of the podcast being completely dependent on what happens in real life and the story could’ve changed dramatically and it did when “a friend of John phones [Brian] to let him know: John is dead from a suicide” (Romano, 2017). This benefits the narrative because “choosing the right story, with sufficient ambition or twist” (Thirkell, 2014) makes the storytelling more intriguing.
+
+S.Town starts as a true crime podcast but “morphs into a character study of the man behind the false lead” (Salusinszky, 2017). True crime podcasts have a popularity “when they’re covering stories that are still in need of answers” (Simpson, 2017) because its easy to become obsessed with them trying to find out what has happened so “you quickly lose yourself in them, and the temptation is to binge-listen” (Salusinszky, 2017).
+<h3>
+References</h3>
+<div>
+<div class="MsoNormal">
+<span style="font-family: inherit;">Salusinszky, I. (2017). Why true-crime podcasts make me uneasy. Retrieved 1 November 2017, from http://www.smh.com.au/comment/why-truecrime-podcasts-make-me-uneasy-20171027-gz9hrq.html&nbsp;</span>
+<span style="font-family: inherit;">
+S.Town. (n.d.). ABOUT THE SHOW. Retrieved 1 November, 2017, from https://stownpodcast.org/about&nbsp;</span>
+<span style="font-family: inherit;">
+Podcast Insights. (2017). 2017 Podcast Stats &amp; Facts (New Research From August 2017). Retrieved 1 November 2017, from https://www.podcastinsights.com/podcast-statistics/&nbsp;</span>
+<span style="font-family: inherit;">
+Romano, A. (2017). S-Town is a stunning podcast. It probably shouldn't have been made. Retrieved 1 November 2017, from https://www.vox.com/culture/2017/3/30/15084224/s-town-review-controversial-podcast-privacy&nbsp;</span>
+<span style="font-family: inherit;">
+McGrane, C. (2017). ‘S-Town’ creator: Podcasting is so new, the rules are still being written. Retrieved 1 November 2017, https://www.geekwire.com/2017/s-town-creator-podcasting-new-rules-still-written/&nbsp;</span>
+<span style="font-family: inherit;">
+Serial Productions (Producer). (n.d.). S.Town. [Podcast]. Retrieved from https://stownpodcast.org/chapter/1&nbsp;</span>
+<span style="font-family: inherit;"><span style="background-color: #f2ffde;">
+</span> Thirkell, R. (2014). <i>Conflict - the insiders' guide to storytelling in factual/reality tv and film : the insiders' guide to storytelling in factual/reality tv &amp; film.</i> Retrieved from https://ebookcentral-proquest-com.salford.idm.oclc.org&nbsp;</span>
+<span style="font-family: inherit;">
+Simpson, S. (2017). The unlikely role of true crime podcasts in criminal justice reform. Retrieved 1 November 2017, from https://qz.com/1101889/the-unlikely-role-of-true-crime-podcasts-in-criminal-justice-reform/</span>
+<div>
+<span style="font-family: &quot;tahoma&quot; , &quot;arial&quot; , sans-serif; font-size: 12px;">
+</span></div>
+</div>
+</div>
