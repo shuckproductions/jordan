@@ -6,10 +6,9 @@ shortdesc: "This week I have been doing the groundwork for a factual programme f
 featuredImage: "phone.jpg"
 ---
 
-This week I have been doing the groundwork for a factual programme for my Content Delivery University assignment which needs me to research and create a short feature for Channel 4's Food Unwrapped. I'm going to be sharing with you my experiences of doing research and ringing people to find out information and potentially get some contributors for my feature.<div>
-
-</div>
+This week I have been doing the groundwork for a factual programme for my Content Delivery University assignment which needs me to research and create a short feature for Channel 4's Food Unwrapped. I'm going to be sharing with you my experiences of doing research and ringing people to find out information and potentially get some contributors for my feature.
 <div>
+
 Firstly, I needed to think about what food am I going to research. Coming up with ideas can be difficult but I remembered something my parents told me when I was younger 'if you eat cheese before bed it'll give you nightmares'. Then I had a light bulb moment! So I began my research into does cheese really give you bad dreams?</div>
 <div>
 
@@ -21,8 +20,8 @@ Firstly, I needed to think about what food am I going to research. Coming up wit
 </div>
 <div>
 Once I had got a list of phone numbers I would like to ring, I got out my notebook and started to write a little opening spiel that I would say and what questions I was going to ask. Along the lines of:</div>
-<h3>
-"Hello, my name is Jordan Shuck and I am currently in the research stage of a programme about does cheese give you dreams? I was wondering if you could help me by answering a few questions it would only take a couple of minutes"</h3>
+<h4>
+"Hello, my name is Jordan Shuck and I am currently in the research stage of a programme about does cheese give you dreams? I was wondering if you could help me by answering a few questions it would only take a couple of minutes"</h4>
 <div>
 "Many of us dread actually making a call" (Sillers, n.d.) but to get over this little bit of phone fear, I prepared what I was going to open/end the call and what I was going to ask. By doing this it made me feel satisfied that I would be in control of the conversation and could lead what the other person was saying to get the best out of them.&nbsp;</div>
 <div>
@@ -31,7 +30,7 @@ Once I had got a list of phone numbers I would like to ring, I got out my notebo
 <div>
 I was pleasantly&nbsp;surprised by one phone call to the&nbsp;British Cheese Board. I rang them and it went straight to voicemail, so I left a voicemail asking for them to ring me back when suitable for them. With me thinking they won't get back to me, about half an hour later they rang me back and had a short but useful conversation about their study and how they would email me in a few days with the relevant contacts I would need to enhance my research.&nbsp;</div>
 <h3>
-<span style="border: 0px; font-family: inherit; font-size: small; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;">Reference list</span></h3>
+Reference list</h3>
 <div>
 <span style="border: 0px; margin: 0px; outline: 0px; padding: 0px;">British Cheese Board. (2005). Sweet Dreams Are Made Of Cheese. Retrieved 15 February 2018, from <a href="http://web.archive.org/web/20060115000115/http://www.cheeseboard.co.uk/news.cfm?page_id=240">http://web.archive.org/web/20060115000115/http://www.cheeseboard.co.uk/news.cfm?page_id=240</a>&nbsp;</span></div>
 <div>
