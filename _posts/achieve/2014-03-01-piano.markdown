@@ -1,9 +1,0 @@
----
-title: "Piano Grade 6 "
-layout: none
-level:  "Distinction"
-bottom:  ""
-symbol: "achieve/piano.png"
-uniquecolour: "(0,0,0,1)"
-categories: achievement
----

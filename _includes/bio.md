@@ -10,4 +10,4 @@ Also, I am an active member of Blackpool Scouts where I am District Youth Commis
 
 I feel that I have a responsibility to entertain, inspire and engage with an audience; and this sparks my passion for the media, making me determined, focused and enthusiastic about all aspects of media production from writing to editing. I believe film, television and radio are the most important ways to tell a story and use creativity to form relationships with characters you have created to change people's opinions.
 
-Broadcasting is one of the most powerful and influential tools that we have in society and I would love to be a part of the community that makes it happen. My goal is to be a producer or perhaps a director and I believe that through hard work and getting my degree will provide me with a stepping stone to help me achieve this goal.
+Broadcasting is one of the most powerful and influential tools that we have in society and I would love to be a part of the community that makes it happen.

@@ -1,0 +1,9 @@
+---
+title: "Student Ambassador"
+layout: none
+level:  "University of Salford"
+bottom:  "Current"
+symbol: "achieve/uni.png"
+uniquecolour: "(210,15,36,1)"
+categories: achievement
+---
