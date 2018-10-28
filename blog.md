@@ -16,6 +16,9 @@ permalink: /blog/
       {% endif %}
     <br>
     <p class="post-meta">Posted
+      {% if post.shortdesc %}
+        under <span class="categorylink">{{ post.categories }}</span>
+      {% endif %}
       {% if post.author %}
         {{ post.author }}
       {% else %}
