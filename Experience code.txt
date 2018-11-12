@@ -1,0 +1,21 @@
+<b>Experience:</b>
+<br><br>
+
+{% for post in site.categories.achievement | sort: 'date') | reverse %}
+<div class="achievebox" style="background:rgba{{ post.uniquecolour }}; ">
+<img class="achieveimg" src="{{ site.baseurl }}/images/{{ post.symbol }}">
+<p class="achievebold">{{ post.title }}</p>
+<span class="bottominfo">
+<p class="briefskills">{{ post.level }}</p>
+<p class="achievewhen">{{ post.bottom }}</p>
+</span>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<style>
+.post-title {
+	display: none;

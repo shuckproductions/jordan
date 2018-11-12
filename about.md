@@ -28,29 +28,3 @@ Visit me on <i class="fa fa-linkedin-square" aria-hidden="true"></i>
 </div></a><br>
 
 <a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/jshuckie?ref_src=twsrc%5Etfw">Tweets by jshuckie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!--
-
-<b>Experience:</b>
-<br><br>
-
-{% for post in site.categories.achievement | sort: 'date') | reverse %}
-<div class="achievebox" style="background:rgba{{ post.uniquecolour }}; ">
-<img class="achieveimg" src="{{ site.baseurl }}/images/{{ post.symbol }}">
-<p class="achievebold">{{ post.title }}</p>
-<span class="bottominfo">
-<p class="briefskills">{{ post.level }}</p>
-<p class="achievewhen">{{ post.bottom }}</p>
-</span>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-<style>
-.post-title {
-	display: none;
-}
--->
