@@ -9,3 +9,4 @@ Original broadcast television is where my love of the media lies; more specifica
 A big part of me is Scouting. I'm currently District Youth Commissioner, an assistant Beaver Scout leader, a producer for Blackpool Gang Show and Media and Communications Editor for Blackpool District. In all of these roles, I act as an ambassador for Blackpool Scouts and empower the young people to make their own decisions and be involved in shaping their scouting adventures.
 
 I am proud to have worked with:
+<img src="/images/logocredits/" height="50px">
