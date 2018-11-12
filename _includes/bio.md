@@ -1,13 +1,12 @@
-I'm 19, have a love for broadcasting and I'm studying BA (Hons) Television and Radio at the University of Salford based at MediaCityUK.
+I'm a second year student studying BA (Hons) Television and Radio at the University of Salford, MediaCityUK. I am a freelance television runner and an aspiring producer. 
 
 Blackpool born and bred. Who doesn't love the going up the tower, riding the Big One, seeing the illuminations and a little stick of Blackpool rock? (cue George Formby)
 
-I am a presenter at Shock Radio, Manchester's biggest student radio station. Why not tune in on Thursdays at 10am on <a href="shockradio.co.uk"> shockradio.co.uk. </a>
+I'm currently a presenter at Shock Radio, Manchester's biggest student radio station. Why not tune in on Thursdays at 10am on <a href="shockradio.co.uk"> shockradio.co.uk. </a>
 
-Original broadcast television is where my love of the media lies; more specifically British TV fictions such as: Fawlty Towers, Doctor Who, Steptoe and Son, Allo Allo and much more...
+Original broadcast television is where my love of the media lies; more specifically British TV fictions such as: Fawlty Towers, Doctor Who, Open All Hours, Allo Allo and much more...
 
-Also, I am an active member of Blackpool Scouts where I am District Youth Commissioner, an assistant Beaver Scout leader, a producer for Blackpool Gang Show and Media and Communications Editor for Blackpool District. In all of these roles, I act as an ambassador for Blackpool Scouts and empower the young people to make their own decisions and be involved in shaping their scouting adventures.
+A big part of me is Scouting. I'm currently District Youth Commissioner, an assistant Beaver Scout leader, a producer for Blackpool Gang Show and Media and Communications Editor for Blackpool District. In all of these roles, I act as an ambassador for Blackpool Scouts and empower the young people to make their own decisions and be involved in shaping their scouting adventures.
 
-I feel that I have a responsibility to entertain, inspire and engage with an audience; and this sparks my passion for the media, making me determined, focused and enthusiastic about all aspects of media production from writing to editing. I believe film, television and radio are the most important ways to tell a story and use creativity to form relationships with characters you have created to change people's opinions.
-
-Broadcasting is one of the most powerful and influential tools that we have in society and I would love to be a part of the community that makes it happen.
+I am proud to have worked with:
+INSERT IMAGE HERE

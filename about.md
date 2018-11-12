@@ -27,6 +27,10 @@ permalink: /about/
 Visit me on <i class="fa fa-linkedin-square" aria-hidden="true"></i>
 </div></a><br>
 
+<a class="twitter-timeline" data-width="300" href="https://twitter.com/jshuckie?ref_src=twsrc%5Etfw">Tweets by jshuckie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--
+
 <b>Experience:</b>
 <br><br>
 
@@ -40,6 +44,8 @@ Visit me on <i class="fa fa-linkedin-square" aria-hidden="true"></i>
 </span>
 </div>
 
+-->
+
 {% endfor %}
 </div>
 
@@ -47,4 +53,3 @@ Visit me on <i class="fa fa-linkedin-square" aria-hidden="true"></i>
 .post-title {
 	display: none;
 }
-
