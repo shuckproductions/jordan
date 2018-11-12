@@ -27,4 +27,6 @@ permalink: /about/
 Visit me on <i class="fa fa-linkedin-square" aria-hidden="true"></i>
 </div></a><br>
 
-<a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/jshuckie?ref_src=twsrc%5Etfw">Tweets by jshuckie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="500" href="https://twitter.com/jshuckie?ref_src=twsrc%5Etfw">Tweets by jshuckie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2FShockRadio%2Fcarpool-08112018%2F" frameborder="0" ></iframe>
