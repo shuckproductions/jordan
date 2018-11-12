@@ -10,4 +10,4 @@ A big part of me is Scouting. I'm currently District Youth Commissioner, an assi
 
 I am proud to have worked with:
 <br>
-<img src="/images/logocredits.png" height="100px">
+<img src="/images/logocredits.png" height="200px">
