@@ -337,7 +337,10 @@ body {
     color:#ffffff;
     position: absolute;
     font-family: raleway;
-    padding-top: 250px;
+    padding-top: 80px;
+		@media screen and (max-width: 820px) {
+				padding-top: 250px;
+		}
 
 }
 
@@ -574,4 +577,11 @@ a {
 
 .categorylink {
 	text-transform: capitalize !important;
+}
+
+.showreel {
+	height: 250px;
+	width: 400px;
+	margin-top: 20px;
+
 }
