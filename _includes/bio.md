@@ -2,7 +2,7 @@ I'm a second year student studying BA (Hons) Television and Radio at the Univers
 
 Blackpool born and bred. Who doesn't love the going up the tower, riding the Big One, seeing the illuminations and a little stick of Blackpool rock? (cue George Formby)
 
-I'm currently a presenter at Shock Radio, Manchester's biggest student radio station. Why not tune in on Thursdays at 10am on <a href="shockradio.co.uk"> shockradio.co.uk. </a>
+I'm currently an award winning daytime show presenter at Shock Radio, Manchester's biggest student radio station, with my co-host, Jonty Roberts. Why not tune in on Tuesdays at 9am on <a href="shockradio.co.uk"> shockradio.co.uk. </a>
 
 Original broadcast television is where my love of the media lies; more specifically British TV fictions such as: Fawlty Towers, Doctor Who, Open All Hours, Allo Allo and much more...
 
