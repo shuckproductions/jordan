@@ -1,4 +1,4 @@
-I'm a second year student studying BA (Hons) Television and Radio at the University of Salford, MediaCityUK. I am a freelance television runner and an aspiring producer.
+I'm a third year student studying BA (Hons) Television and Radio at the University of Salford, MediaCityUK. I am a freelance television runner and an aspiring producer.
 
 Blackpool born and bred. Who doesn't love the going up the tower, riding the Big One, seeing the illuminations and a little stick of Blackpool rock? (cue George Formby)
 
