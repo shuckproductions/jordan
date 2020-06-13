@@ -1,10 +1,11 @@
 ---
 title: "End of Semester One - Second Year "
 layout: post
-categories: University
+categories: blog
 shortdesc: "I've been a busy bee since my last post so let's have a catch-up. It was October since I last wrote a post, seems like ages ago!"
 featuredImage: "update.jpeg"
 ---
+
 <p>I've been a busy bee since my last post so let's have a catch-up. It was October since I last wrote a post, seems like ages ago! I completed the first semester of my second year at the University of Salford and had a whale of a time in all my modules. They were, editing, professional practice and TV studio, the latter was my favourite. In this module, I was the producer for a quiz show, meaning that I had to create the show from scratch and organise the production from start to finish with a team of 16 other people. We also created a children's television show where I was the sound assistant. A challenging but thoroughly enjoyable process that I can't wait to do again in the future.</p>
 <div style="text-align: center;">
 <div class="separator" style="clear: both; text-align: center;"><a style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="https://4.bp.blogspot.com/-ybzmiEbxe94/XG2efsYRgvI/AAAAAAAAAmc/ZAx_vKbyD7EKbTKIwC2BwowmhWTJdi2RgCLcBGAs/s1600/IMG_5237.jpg"><img src="https://4.bp.blogspot.com/-ybzmiEbxe94/XG2efsYRgvI/AAAAAAAAAmc/ZAx_vKbyD7EKbTKIwC2BwowmhWTJdi2RgCLcBGAs/s320/IMG_5237.jpg" width="320" height="240" border="0" data-original-height="1200" data-original-width="1600" /></a></div>

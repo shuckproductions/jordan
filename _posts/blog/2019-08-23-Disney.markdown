@@ -2,7 +2,7 @@
 title: "Working at the most Magical Place on Earth "
 layout: post
 categories: blog
-shortdesc: "Coming soon...
+shortdesc: "Coming soon..."
 featuredImage: "disney.jpeg"
 ---
 
