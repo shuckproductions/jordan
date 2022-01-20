@@ -9,8 +9,8 @@
 title: Jordan Shuck
 email: jordan@shuck.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-    Hi! I’m Jordan. Production Secretary and apsiring Gallery PA/Editor.
-10wordbio: Production Secretary and apsiring Gallery PA/Editor.
+    Hi! I’m Jordan. Production Secretary and apsiring Gallery PA.
+10wordbio: Production Secretary and apsiring Gallery PA.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jordan.shuck.org.uk" # the base hostname & protocol for your site
