@@ -1,9 +1,0 @@
----
-title: "ERIC AND ERNIE, Child"
-layout: none
-level:  "BBC Wales"
-bottom:  "2010 Television"
-symbol: "tv/bbc.png"
-uniquecolour: "(0,0,0,1)"
-categories: tv
----

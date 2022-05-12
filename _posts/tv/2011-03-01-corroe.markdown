@@ -1,9 +1,0 @@
----
-title: "CORONATION STREET, SA"
-layout: none
-level:  "ITV Granada"
-bottom:  "2011 Television"
-symbol: "tv/itv.png"
-uniquecolour: "(0,0,0,1)"
-categories: tv
----

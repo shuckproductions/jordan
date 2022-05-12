@@ -1,9 +1,0 @@
----
-title: "Work Placement"
-layout: none
-level:  "Avanti Media"
-bottom:  "July/August 2018"
-symbol: "achieve/sop.png"
-uniquecolour: "(0,0,0,1)"
-categories: achievement
----

@@ -1,9 +1,0 @@
----
-title: "The Hits"
-layout: none
-level:  "Various"
-bottom:  ""
-symbol: "theatre/wg.png"
-uniquecolour: "(0,0,0,1)"
-categories: theatre
----

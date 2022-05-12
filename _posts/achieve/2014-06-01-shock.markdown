@@ -1,9 +1,0 @@
----
-title: "Radio Presenter"
-layout: none
-level:  "Shock Radio"
-bottom:  "Current"
-symbol: "achieve/shock.png"
-uniquecolour: "(0,162,223,1)"
-categories: achievement
----

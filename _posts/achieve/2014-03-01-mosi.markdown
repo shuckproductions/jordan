@@ -1,9 +1,0 @@
----
-title: "Production Runner"
-layout: none
-level:  "Manchester Science Festival"
-bottom:  "October 2017"
-symbol: "achieve/mosi.png"
-uniquecolour: "(248,195,64,1)"
-categories: achievement
----
