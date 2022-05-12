@@ -18,7 +18,7 @@ url: "http://jordan.shuck.org.uk" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-twitter_handle: jshuckie
-youtube_handle: channel/UCVyJVvAwP48xrcMMCfANnyA
-instagram_handle: jshuckie
-flickr_handle: photos/jordan-shuck/
+twitter_handle:
+youtube_handle:
+instagram_handle:
+flickr_handle:
